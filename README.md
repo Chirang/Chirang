@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chirang
+- 👋 Hi, I’m Chirang
 - 👀 I’m interested in Java, ruby on rails and Javascript.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Java and Javascript related projects.
